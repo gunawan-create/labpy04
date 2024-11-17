@@ -45,7 +45,7 @@ Setelah perulangan selesai (pengguna memilih t untuk berhenti menambah data), pr
 ![gambar6](screenshot/ss6.png)
 
 ### Step 7 : Beri Batas Bawah
-Print '=' dikalikan 80 :
+Print '=' dikalikan 90 :
 
 ![gambar7](screenshot/ss7.png)
 
